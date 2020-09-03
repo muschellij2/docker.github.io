@@ -5,7 +5,7 @@ keywords: docker, documentation, about, technology, docker toolbox, gui
 title: Docker Toolbox
 ---
 
-**Note** while Docker Toolbox is now considered Legacy, Kitematic is still supported and available as a separate download from [https://github.com/docker/kitematic](https://github.com/docker/kitematic)
+**Note** while Docker Toolbox is now considered Legacy, Kitematic is still supported and available as a separate download from [https://github.com/docker/kitematic](https://github.com/docker/kitematic/releases).  Version 0.17.12 is available for [download here](https://github.com/docker/kitematic/releases/download/v0.17.12/Kitematic-0.17.12-Mac.zip).  After downloading and extracting the zip file, you can put the Kitematic.app in `/Applications` if you like.
 
 Available for both Windows and Mac, Docker Toolbox installs the Docker Client, Machine, Compose, and Kitematic.
 
